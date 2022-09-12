@@ -1,6 +1,6 @@
 "# Predict-Football-RidgeRegression" 
 
-Libraries used:
+## Libraries used:
 #Prediction and Prepare data
 -Pandas
 -Pickle
@@ -10,10 +10,10 @@ Libraries used:
 -BeautifulSoup
 -requests
 
-Motivation:
+## Motivation:
 As a big soccer fan it is super interresant to do soccer predictions. Soccer is the most popular sport in the world and large amounts of money are invested in betting every year. Now when making a bet, it would be great to use machine learning tools to generate your own predictions in order to win the bet.
 
-Files: 
+## Files: 
 -Predict_RidgeRegression.ipynb: The main point of the project. This is where the predictions are made. 
 -Statistics.ipynb: Just an addition to see how the data was collected. 
 -Statistics2018-, Statistics2019-, Statistics2020.pkl: Statistics for the 2018, 2019, 2020 seasons.
@@ -21,7 +21,7 @@ Files:
 - Ridge Regression.pptx: Summary and visualization of the results
 - List_of_Features: Feature list that can be used
 
-Points from CRISP-DM
+## Points from CRISP-DM
 
 1.  Business Understanding
 In this project, we try to predict other soccer games with statisics of soccer games.
