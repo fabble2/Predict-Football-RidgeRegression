@@ -21,7 +21,7 @@ Files:
 - Ridge Regression.pptx: Summary and visualization of the results
 - List_of_Features: Feature list that can be used
 
-Points from CRISP-DM
+## Points from CRISP-DM
 
 1.  Business Understanding
 In this project, we try to predict other soccer games with statisics of soccer games.
