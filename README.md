@@ -1,5 +1,8 @@
 "# Predict-Football-RidgeRegression" 
 
+## URL to Blog:
+https://medium.com/@fabian.c/winning-soccer-bets-with-machine-learning-146924fdb30a
+
 ## Libraries used:
 #Prediction and Prepare data
 -Pandas
