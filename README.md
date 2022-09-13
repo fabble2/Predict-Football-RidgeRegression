@@ -49,3 +49,8 @@ Different scenarios are tested. First, all features are tested individually and 
 
 6. Deploy 
 With this event the company can give a certain tendency for each match. Thus, users can use this odds to bet on soccer matches. The better the prediction is, the more users will access the kicker. This can increase the size of the readership of the sports magazine.
+
+## Acknowledgements
+
+Dataset Credit: 
+    www.kicker.de and my former tutor.
